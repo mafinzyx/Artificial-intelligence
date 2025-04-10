@@ -1,6 +1,11 @@
 # 🚀 **Artificial intelligence(AI) Laboratory**
 
-
+# 📚 Info:
+  - ## **[Lab1:  Linear regression](lab1)**
+  - ## **[Lab2:  Genetic algorithm](lab2)**
+  - ## **[Lab3:  Min-max algorithm](lab3)**
+  - ## **[Lab4:  Classification](lab4)**
+---
 ## 📥 **Cloning the Repository**
 
 1. Ensure Git is installed:  
